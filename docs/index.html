@@ -1699,7 +1699,7 @@
             setupSortable('ban-name-colors'); setupSortable('ban-feat-colors'); setupSortable('wid-bg-colors'); setupSortable('wid-neon-colors'); setupSortable('wid-txt-colors');
             renderColorInputs('ban-name-colors', ['#f90b6a', '#6056f0']); renderColorInputs('ban-feat-colors', ['#6056f0', '#feea10', '#ff6600', '#ff007b']); renderColorInputs('wid-bg-colors', ['#1e293b']); renderColorInputs('wid-neon-colors', ['#00ffff']); renderColorInputs('wid-txt-colors', ['#ffffff']);
             const uParams=new URLSearchParams(window.location.search);['motd','banner','widget'].forEach(t=>{if(uParams.has(t)){try{const d=JSON.parse(decodeURIComponent(atob(uParams.get(t))));applyTabState(t,d);setTimeout(()=>$(`[data-tab="${t}"]`).click(),100);}catch(e){}}});
-            initFlags(); triggerActiveUpdate(); checkSite(window); $('#wid-icon-auto').trigger('change');
+            initFlags(); triggerActiveUpdate(); checkSite(window); loadCounter(); $('#wid-icon-auto').trigger('change');
             setTimeout(() => { $('#motd-fetch-btn').click(); }, 500);
             setTimeout(()=>{
               loadChecking();
