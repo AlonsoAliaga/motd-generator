@@ -1,0 +1,122 @@
+{
+  "header": {
+    "title_html": "MOTD <span>ジェネレーター</span>",
+    "browser_warning": "より良い体験のために Google Chrome または Opera を使用してください。Edge は問題を引き起こす可能性があります。"
+  },
+  "desc": {
+    "title": "なぜこのツールを使うのですか？",
+    "text_1": "正直に言うと、このサイトにあるすべてのものを備えたサイトは他にありません。<br>当社の完全な <span class=\"rainbow\">ブランディング</span> スイートを使用して、サーバー用の素晴らしい MOTD、サーバーバナー、Web ウィジェットを即座に作成しましょう！",
+    "tagline": "もう探す必要はありません！私たちのジェネレーターがここにあります！",
+    "links": "⚠️ アイデアがある場合は、<a href=\"https://alonsoaliaga.com/discord\" style=\"text-decoration:underline;\">公式 Discord</a> で提案してください。<br>💎 役に立った場合は、これまでの取り組みに対する <a href=\"https://alonsoaliaga.com/donate\" style=\"text-decoration:underline;\">寄付</a> をご検討ください。"
+  },
+  "options": {
+    "site_options": "サイトオプション:",
+    "dark_mode": "ダークモード 👁️‍🗨️",
+    "button_auto": "🤖 自動"
+  },
+  "general": {
+    "res": "解像度:",
+    "engine": "エンジン:",
+    "bold": "太字",
+    "align": "配置:"
+  },
+  "controls": {
+    "title": "&nbsp;設定とツール 🎛️&nbsp;",
+    "tab_motd": "MOTD クリエイター",
+    "tab_banner": "バナージェネレーター",
+    "tab_widget": "Web ウィジェット",
+    "btn_export_data": "💾 エクスポート",
+    "btn_import_data": "📂 インポート",
+    "btn_share": "🔗 共有"
+  },
+  "motd": {
+    "label_live": "IP を取得:",
+    "ph_live_ip": "mc.hypixel.net",
+    "btn_fetch": "🔄 IP を読み込む",
+    "label_icon": "アイコン (64x64):",
+    "ph_icon_url": "URL または Base64",
+    "btn_upload": "📁 アイコンをアップロード",
+    "btn_dl_icon": "📥 64px をダウンロード",
+    "label_title": "サーバー名:",
+    "label_line1": "MOTD 行 #1:",
+    "label_line2": "MOTD 行 #2:",
+    "label_players": "偽のプレイヤー数:",
+    "premium_title": "プレミアムオプション",
+    "btn_export": "MOTD をキャプチャ"
+  },
+  "banner": {
+    "label_style": "スタイル:",
+    "label_bg": "背景:",
+    "btn_upload_bg": "🌌 背景をアップロード",
+    "label_logo": "サーバーロゴ:",
+    "btn_upload_logo": "📁 ロゴをアップロード",
+    "label_name": "名前:",
+    "label_feat": "機能:",
+    "label_overlay": "ダークオーバーレイ",
+    "gif_mode": "GIF モード",
+    "gif_txt_anim": "テキストアニメーション:",
+    "gif_bg_anim": "背景アニメーション:",
+    "gif_icon_anim": "アイコンアニメーション:",
+    "btn_preview_gif": "👁️ GIF をプレビュー"
+  },
+  "widget": {
+    "prev_server": "サーバー:",
+    "label_ip": "サーバー IP:",
+    "label_text": "表示テキスト:",
+    "opt_show_ip": "下に IP を表示",
+    "opt_rounded": "角を丸くする",
+    "label_txtcol": "テキストの色:",
+    "bg_anim": "背景アニメーション:",
+    "txt_anim": "テキストアニメーション:",
+    "opt_grad": "グラデーション",
+    "opt_neon": "ネオンボーダー",
+    "status_online": "オンライン",
+    "status_offline": "オフライン",
+    "visual_effects": "視覚効果",
+    "font": "フォント:",
+    "live_data": "ライブデータ",
+    "auto_update": "自動更新",
+    "interval": "間隔 (秒):",
+    "neon_mode": "ネオンモード:",
+    "neon_colors": "ネオンカラー:",
+    "width": "幅:",
+    "bg_colors": "背景と色",
+    "ip_size": "IP のサイズ:",
+    "rounded_size": "半径:",
+    "label_icon": "アイコン URL:",
+    "icon_auto": "API から抽出",
+    "total_width": "全体の幅:",
+    "box_width": "ボックスの幅 (色):",
+    "show_players": "プレイヤーを表示"
+  },
+  "output": {
+    "title": "&nbsp;結果 💾&nbsp;",
+    "label_format": "フォーマット:",
+    "btn_copy": "コードをコピー",
+    "btn_download": "バナーを PNG としてダウンロード",
+    "btn_gif": "GIF をダウンロード",
+    "ph_area": "データはここに表示されます...",
+    "gen_comment": ""
+  },
+  "showcase": {
+    "t1": "このようなピクセルアートをお探しですか？ 💎",
+    "t2": "このようなレンダリングをお探しですか？ 💎",
+    "t3": "このようなアニメーションをお探しですか？ 💎"
+  },
+  "tools": {
+    "title": "その他のツール:"
+  },
+  "footer": {
+    "thanks": "このツールの開発における <a href=\"https://alonsoaliaga.com/donate\" rel=\"noopener\" target=\"_blank\" style=\"color:var(--link-color);\">AlonsoAliaga</a> と <a href=\"https://google.com\" rel=\"noopener\" target=\"_blank\" style=\"color:var(--link-color);\">Gemini</a> の尽力に感謝します。"
+  },
+  "toast": {
+    "copied": "コードをクリップボードにコピーしました！",
+    "fetched": "データが正常に読み込まれました！",
+    "resized": "アイコンが 64x64 にリサイズされました！",
+    "resized_ready": "アイコンが 64x64 にリサイズされ、ダウンロードの準備ができました！",
+    "fetch_err": "サーバーデータの取得中にエラーが発生しました！",
+    "downloading": "画像を生成しています...",
+    "imported": "設定がインポートされました！",
+    "link_copied": "リンクをコピーしました！"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "header": {
+    "title_html": "<span>Générateur</span> de MOTD",
+    "browser_warning": "Utilisez Google Chrome ou Opera pour une meilleure expérience. Edge peut causer des problèmes."
+  },
+  "desc": {
+    "title": "Pourquoi utiliser cet outil ?",
+    "text_1": "Soyons honnêtes, il n'y a pas d'autres sites avec tout ce que celui-ci possède.<br>Créez des MOTD incroyables, des bannières de serveur et des widgets web instantanément pour votre serveur avec notre suite complète de <span class=\"rainbow\">Branding</span> !",
+    "tagline": "Ne cherchez pas plus loin ! Nos générateurs sont là !",
+    "links": "⚠️ Si vous avez des idées, suggérez-les sur notre <a href=\"https://alonsoaliaga.com/discord\" style=\"text-decoration:underline;\">discord officiel</a>.<br>💎 Si vous l'avez trouvé utile, envisagez de <a href=\"https://alonsoaliaga.com/donate\" style=\"text-decoration:underline;\">faire un don</a> pour le travail accompli."
+  },
+  "options": {
+    "site_options": "Options du site :",
+    "dark_mode": "Mode Sombre 👁️‍🗨️",
+    "button_auto": "🤖 AUTO"
+  },
+  "general": {
+    "res": "Résolution :",
+    "engine": "Moteur :",
+    "bold": "Gras",
+    "align": "Alignement :"
+  },
+  "controls": {
+    "title": "&nbsp;Configuration & Outils 🎛️&nbsp;",
+    "tab_motd": "Créateur de MOTD",
+    "tab_banner": "Générateur de Bannière",
+    "tab_widget": "Widget Web",
+    "btn_export_data": "💾 Exporter",
+    "btn_import_data": "📂 Importer",
+    "btn_share": "🔗 Partager"
+  },
+  "motd": {
+    "label_live": "Récupérer IP :",
+    "ph_live_ip": "mc.hypixel.net",
+    "btn_fetch": "🔄 Charger IP",
+    "label_icon": "Icône (64x64) :",
+    "ph_icon_url": "URL ou Base64",
+    "btn_upload": "📁 Téléverser Icône",
+    "btn_dl_icon": "📥 Télécharger 64px",
+    "label_title": "Nom du Serveur :",
+    "label_line1": "Ligne MOTD #1 :",
+    "label_line2": "Ligne MOTD #2 :",
+    "label_players": "Faux Joueurs :",
+    "premium_title": "Options Premium",
+    "btn_export": "Capturer MOTD"
+  },
+  "banner": {
+    "label_style": "Style :",
+    "label_bg": "Fond :",
+    "btn_upload_bg": "🌌 Téléverser Fond",
+    "label_logo": "Logo du Serveur :",
+    "btn_upload_logo": "📁 Téléverser Logo",
+    "label_name": "Nom :",
+    "label_feat": "Fonctionnalités :",
+    "label_overlay": "Superposition Sombre",
+    "gif_mode": "Mode GIF",
+    "gif_txt_anim": "Animation de Texte :",
+    "gif_bg_anim": "Animation de Fond :",
+    "gif_icon_anim": "Animation d'Icône :",
+    "btn_preview_gif": "👁️ Prévisualiser GIF"
+  },
+  "widget": {
+    "prev_server": "Serveur :",
+    "label_ip": "IP du serveur :",
+    "label_text": "Texte affiché :",
+    "opt_show_ip": "Afficher l'IP en dessous",
+    "opt_rounded": "Bords Arrondis",
+    "label_txtcol": "Couleur du Texte :",
+    "bg_anim": "Animation de Fond :",
+    "txt_anim": "Animation de Texte :",
+    "opt_grad": "Dégradé",
+    "opt_neon": "Bordure Néon",
+    "status_online": "En ligne",
+    "status_offline": "Hors ligne",
+    "visual_effects": "Effets Visuels",
+    "font": "Police :",
+    "live_data": "Données en Direct",
+    "auto_update": "Auto-Mise à jour",
+    "interval": "Intervalle (secs) :",
+    "neon_mode": "Mode Néon :",
+    "neon_colors": "Couleurs Néon :",
+    "width": "Largeur :",
+    "bg_colors": "Fond & Couleurs",
+    "ip_size": "Taille de l'IP :",
+    "rounded_size": "Rayon :",
+    "label_icon": "URL de l'Icône :",
+    "icon_auto": "Extraire de l'API",
+    "total_width": "Largeur Totale :",
+    "box_width": "Largeur de Boîte (Couleur) :",
+    "show_players": "Afficher les Joueurs"
+  },
+  "output": {
+    "title": "&nbsp;Résultat 💾&nbsp;",
+    "label_format": "Format :",
+    "btn_copy": "COPIER LE CODE",
+    "btn_download": "Télécharger la bannière en PNG",
+    "btn_gif": "TÉLÉCHARGER GIF",
+    "ph_area": "Les données apparaîtront ici...",
+    "gen_comment": ""
+  },
+  "showcase": {
+    "t1": "Vous cherchez un pixelart comme celui-ci ? 💎",
+    "t2": "Vous cherchez un rendu comme celui-ci ? 💎",
+    "t3": "Vous cherchez une animation comme celle-ci ? 💎"
+  },
+  "tools": {
+    "title": "Plus d'outils :"
+  },
+  "footer": {
+    "thanks": "Merci à <a href=\"https://alonsoaliaga.com/donate\" rel=\"noopener\" target=\"_blank\" style=\"color:var(--link-color);\">AlonsoAliaga</a> et <a href=\"https://google.com\" rel=\"noopener\" target=\"_blank\" style=\"color:var(--link-color);\">Gemini</a> pour leur travail acharné durant le développement de cet outil."
+  },
+  "toast": {
+    "copied": "Code copié dans le presse-papiers !",
+    "fetched": "Données chargées avec succès !",
+    "resized": "Icône redimensionnée à 64x64 !",
+    "resized_ready": "Icône redimensionnée à 64x64 et prête au téléchargement !",
+    "fetch_err": "Erreur lors de la récupération des données du serveur !",
+    "downloading": "Génération de l'image...",
+    "imported": "Paramètres importés !",
+    "link_copied": "Lien copié !"
+  }
+}

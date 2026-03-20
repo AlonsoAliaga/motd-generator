@@ -1,0 +1,122 @@
+{
+  "header": {
+    "title_html": "<span>مُولّد</span> MOTD",
+    "browser_warning": "استخدم Google Chrome أو Opera للحصول على تجربة أفضل. قد يتسبب Edge في حدوث مشكلات."
+  },
+  "desc": {
+    "title": "لماذا تستخدم هذه الأداة؟",
+    "text_1": "لنكن صادقين، لا توجد مواقع أخرى تحتوي على كل ما يمتلكه هذا الموقع.<br>قم بإنشاء MOTDs مذهلة ولافتات خادم وعناصر واجهة مستخدم ويب على الفور لخادمك باستخدام مجموعة <span class=\"rainbow\">العلامات التجارية</span> الكاملة لدينا!",
+    "tagline": "لا مزيد من البحث! مولداتنا هنا!",
+    "links": "⚠️ إذا كان لديك أفكار، اقترحها في <a href=\"https://alonsoaliaga.com/discord\" style=\"text-decoration:underline;\">الديسكورد الرسمي</a> الخاص بنا.<br>💎 إذا وجدت هذا مفيدًا، فكر في <a href=\"https://alonsoaliaga.com/donate\" style=\"text-decoration:underline;\">تقديم تبرع</a> من أجل العمل الشاق."
+  },
+  "options": {
+    "site_options": "خيارات الموقع:",
+    "dark_mode": "الوضع الداكن 👁️‍🗨️",
+    "button_auto": "🤖 تلقائي"
+  },
+  "general": {
+    "res": "الدقة:",
+    "engine": "المحرك:",
+    "bold": "غامق",
+    "align": "المحاذاة:"
+  },
+  "controls": {
+    "title": "&nbsp;الإعدادات والأدوات 🎛️&nbsp;",
+    "tab_motd": "منشئ MOTD",
+    "tab_banner": "مولد اللافتات",
+    "tab_widget": "أداة الويب",
+    "btn_export_data": "💾 تصدير",
+    "btn_import_data": "📂 استيراد",
+    "btn_share": "🔗 مشاركة"
+  },
+  "motd": {
+    "label_live": "جلب الـ IP:",
+    "ph_live_ip": "mc.hypixel.net",
+    "btn_fetch": "🔄 تحميل الـ IP",
+    "label_icon": "الأيقونة (64x64):",
+    "ph_icon_url": "رابط أو Base64",
+    "btn_upload": "📁 رفع أيقونة",
+    "btn_dl_icon": "📥 تحميل 64 بكسل",
+    "label_title": "اسم الخادم:",
+    "label_line1": "سطر MOTD الأول:",
+    "label_line2": "سطر MOTD الثاني:",
+    "label_players": "لاعبين وهميين:",
+    "premium_title": "خيارات مميزة",
+    "btn_export": "التقاط MOTD"
+  },
+  "banner": {
+    "label_style": "النمط:",
+    "label_bg": "الخلفية:",
+    "btn_upload_bg": "🌌 رفع خلفية",
+    "label_logo": "شعار الخادم:",
+    "btn_upload_logo": "📁 رفع شعار",
+    "label_name": "الاسم:",
+    "label_feat": "المميزات:",
+    "label_overlay": "طبقة داكنة",
+    "gif_mode": "وضع GIF",
+    "gif_txt_anim": "حركة النص:",
+    "gif_bg_anim": "حركة الخلفية:",
+    "gif_icon_anim": "حركة الأيقونة:",
+    "btn_preview_gif": "👁️ معاينة GIF"
+  },
+  "widget": {
+    "prev_server": "الخادم:",
+    "label_ip": "آي بي الخادم (IP):",
+    "label_text": "نص العرض:",
+    "opt_show_ip": "إظهار الـ IP بالأسفل",
+    "opt_rounded": "حواف دائرية",
+    "label_txtcol": "لون النص:",
+    "bg_anim": "حركة الخلفية:",
+    "txt_anim": "حركة النص:",
+    "opt_grad": "تدرج لوني",
+    "opt_neon": "حدود نيون",
+    "status_online": "متصل",
+    "status_offline": "غير متصل",
+    "visual_effects": "تأثيرات بصرية",
+    "font": "الخط:",
+    "live_data": "بيانات مباشرة",
+    "auto_update": "تحديث تلقائي",
+    "interval": "الفاصل الزمني (ثواني):",
+    "neon_mode": "وضع النيون:",
+    "neon_colors": "ألوان النيون:",
+    "width": "العرض:",
+    "bg_colors": "الخلفية والألوان",
+    "ip_size": "حجم الـ IP:",
+    "rounded_size": "نصف القطر:",
+    "label_icon": "رابط الأيقونة:",
+    "icon_auto": "استخراج من الـ API",
+    "total_width": "العرض الإجمالي:",
+    "box_width": "عرض المربع (اللون):",
+    "show_players": "إظهار اللاعبين"
+  },
+  "output": {
+    "title": "&nbsp;النتيجة 💾&nbsp;",
+    "label_format": "التنسيق:",
+    "btn_copy": "نسخ الكود",
+    "btn_download": "تنزيل اللافتة كـ PNG",
+    "btn_gif": "تنزيل GIF",
+    "ph_area": "ستظهر البيانات هنا...",
+    "gen_comment": ""
+  },
+  "showcase": {
+    "t1": "هل تبحث عن فن بكسل مثل هذا؟ 💎",
+    "t2": "هل تبحث عن تصيير مثل هذا؟ 💎",
+    "t3": "هل تبحث عن رسوم متحركة مثل هذه؟ 💎"
+  },
+  "tools": {
+    "title": "أدوات أخرى:"
+  },
+  "footer": {
+    "thanks": "شكرًا لـ <a href=\"https://alonsoaliaga.com/donate\" rel=\"noopener\" target=\"_blank\" style=\"color:var(--link-color);\">AlonsoAliaga</a> و <a href=\"https://google.com\" rel=\"noopener\" target=\"_blank\" style=\"color:var(--link-color);\">Gemini</a> على عملهما الشاق أثناء تطوير هذه الأداة."
+  },
+  "toast": {
+    "copied": "تم نسخ الكود إلى الحافظة!",
+    "fetched": "تم تحميل البيانات بنجاح!",
+    "resized": "تم تغيير حجم الأيقونة إلى 64x64!",
+    "resized_ready": "تم تغيير حجم الأيقونة إلى 64x64 وهي جاهزة للتنزيل!",
+    "fetch_err": "خطأ في جلب بيانات الخادم!",
+    "downloading": "جاري إنشاء الصورة...",
+    "imported": "تم استيراد الإعدادات!",
+    "link_copied": "تم نسخ الرابط!"
+  }
+}

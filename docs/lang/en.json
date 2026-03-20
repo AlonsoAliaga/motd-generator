@@ -1,0 +1,122 @@
+{
+  "header": {
+    "title_html": "MOTD <span>Generator</span>",
+    "browser_warning": "Use Google Chrome or Opera for a better experience. Edge might cause issues."
+  },
+  "desc": {
+    "title": "Why use this tool?",
+    "text_1": "Let's be honest, there are no other sites with everything this one has.<br>Create incredible MOTDs, Server Banners, and Web Widgets instantly for your server with our complete <span class=\"rainbow\">Branding</span> suite!",
+    "tagline": "Look no further! Our generators are here!",
+    "links": "⚠️ If you have ideas, suggest them in our <a href=\"https://alonsoaliaga.com/discord\" style=\"text-decoration:underline;\">official discord</a>.<br>💎 If you found it useful, consider <a href=\"https://alonsoaliaga.com/donate\" style=\"text-decoration:underline;\">making a donation</a> for the hard work."
+  },
+  "options": {
+    "site_options": "Site options:",
+    "dark_mode": "Dark Mode 👁️‍🗨️",
+    "button_auto": "🤖 AUTO"
+  },
+  "general": {
+    "res": "Resolution:",
+    "engine": "Engine:",
+    "bold": "Bold",
+    "align": "Alignment:"
+  },
+  "controls": {
+    "title": "&nbsp;Configuration & Tools 🎛️&nbsp;",
+    "tab_motd": "MOTD Creator",
+    "tab_banner": "Banner Generator",
+    "tab_widget": "Web Widget",
+    "btn_export_data": "💾 Export",
+    "btn_import_data": "📂 Import",
+    "btn_share": "🔗 Share"
+  },
+  "motd": {
+    "label_live": "Fetch IP:",
+    "ph_live_ip": "mc.hypixel.net",
+    "btn_fetch": "🔄 Load IP",
+    "label_icon": "Icon (64x64):",
+    "ph_icon_url": "URL or Base64",
+    "btn_upload": "📁 Upload Icon",
+    "btn_dl_icon": "📥 Download 64px",
+    "label_title": "Server Name:",
+    "label_line1": "MOTD Line #1:",
+    "label_line2": "MOTD Line #2:",
+    "label_players": "Fake Players:",
+    "premium_title": "Premium Options",
+    "btn_export": "Capture MOTD"
+  },
+  "banner": {
+    "label_style": "Style:",
+    "label_bg": "Background:",
+    "btn_upload_bg": "🌌 Upload Background",
+    "label_logo": "Server Logo:",
+    "btn_upload_logo": "📁 Upload Logo",
+    "label_name": "Name:",
+    "label_feat": "Features:",
+    "label_overlay": "Dark Overlay",
+    "gif_mode": "GIF Mode",
+    "gif_txt_anim": "Text Animation:",
+    "gif_bg_anim": "Background Animation:",
+    "gif_icon_anim": "Icon Animation:",
+    "btn_preview_gif": "👁️ Preview GIF"
+  },
+  "widget": {
+    "prev_server": "Server:",
+    "label_ip": "Server IP:",
+    "label_text": "Display text:",
+    "opt_show_ip": "Show IP below",
+    "opt_rounded": "Rounded Edges",
+    "label_txtcol": "Text Color:",
+    "bg_anim": "Background Animation:",
+    "txt_anim": "Text Animation:",
+    "opt_grad": "Gradient",
+    "opt_neon": "Neon Border",
+    "status_online": "Online",
+    "status_offline": "Offline",
+    "visual_effects": "Visual Effects",
+    "font": "Font:",
+    "live_data": "Live Data",
+    "auto_update": "Auto-Update",
+    "interval": "Interval (secs):",
+    "neon_mode": "Neon Mode:",
+    "neon_colors": "Neon Colors:",
+    "width": "Width:",
+    "bg_colors": "Background & Colors",
+    "ip_size": "IP Size:",
+    "rounded_size": "Radius:",
+    "label_icon": "Icon URL:",
+    "icon_auto": "Extract from API",
+    "total_width": "Total Width:",
+    "box_width": "Box Width (Color):",
+    "show_players": "Show Players"
+  },
+  "output": {
+    "title": "&nbsp;Result 💾&nbsp;",
+    "label_format": "Format:",
+    "btn_copy": "COPY CODE",
+    "btn_download": "Download banner as PNG",
+    "btn_gif": "DOWNLOAD GIF",
+    "ph_area": "Data will appear here...",
+    "gen_comment": "<!-- Generated at https://alonsoaliaga.com/motd-generator -->"
+  },
+  "showcase": {
+    "t1": "Looking for pixel art like this? 💎",
+    "t2": "Looking for a render like this one? 💎",
+    "t3": "Looking for an animation like this? 💎"
+  },
+  "tools": {
+    "title": "More tools:"
+  },
+  "footer": {
+    "thanks": "Thanks to <a href=\"https://alonsoaliaga.com/donate\" rel=\"noopener\" target=\"_blank\" style=\"color:var(--link-color);\">AlonsoAliaga</a> and <a href=\"https://google.com\" rel=\"noopener\" target=\"_blank\" style=\"color:var(--link-color);\">Gemini</a> for their hard work during the development of this tool."
+  },
+  "toast": {
+    "copied": "Code copied to clipboard!",
+    "fetched": "Data loaded successfully!",
+    "resized": "Icon resized to 64x64!",
+    "resized_ready": "Icon resized to 64x64 and ready for download!",
+    "fetch_err": "Error fetching server data!",
+    "downloading": "Generating image...",
+    "imported": "Settings imported!",
+    "link_copied": "Link copied!"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "header": {
+    "title_html": "MOTD <span>生成器</span>",
+    "browser_warning": "使用 Google Chrome 或 Opera 以获得更好的体验。Edge 可能会导致问题。"
+  },
+  "desc": {
+    "title": "为什么要使用这个工具？",
+    "text_1": "说实话，没有其他网站拥有这里的一切。<br>使用我们完整的 <span class=\"rainbow\">品牌推广</span> 套件，立即为您的服务器创建令人惊叹的 MOTD、服务器横幅和 Web 小部件！",
+    "tagline": "别再找了！我们的生成器就在这里！",
+    "links": "⚠️ 如果您有任何想法，请在我们的 <a href=\"https://alonsoaliaga.com/discord\" style=\"text-decoration:underline;\">官方 Discord</a> 中提出。<br>💎 如果您觉得它有用，请考虑为我们的辛勤工作 <a href=\"https://alonsoaliaga.com/donate\" style=\"text-decoration:underline;\">进行捐赠</a>。"
+  },
+  "options": {
+    "site_options": "网站选项：",
+    "dark_mode": "深色模式 👁️‍🗨️",
+    "button_auto": "🤖 自动"
+  },
+  "general": {
+    "res": "分辨率：",
+    "engine": "引擎：",
+    "bold": "粗体",
+    "align": "对齐方式："
+  },
+  "controls": {
+    "title": "&nbsp;配置与工具 🎛️&nbsp;",
+    "tab_motd": "MOTD 创建器",
+    "tab_banner": "横幅生成器",
+    "tab_widget": "Web 小部件",
+    "btn_export_data": "💾 导出",
+    "btn_import_data": "📂 导入",
+    "btn_share": "🔗 分享"
+  },
+  "motd": {
+    "label_live": "获取 IP：",
+    "ph_live_ip": "mc.hypixel.net",
+    "btn_fetch": "🔄 加载 IP",
+    "label_icon": "图标 (64x64)：",
+    "ph_icon_url": "URL 或 Base64",
+    "btn_upload": "📁 上传图标",
+    "btn_dl_icon": "📥 下载 64px",
+    "label_title": "服务器名称：",
+    "label_line1": "MOTD 第 1 行：",
+    "label_line2": "MOTD 第 2 行：",
+    "label_players": "虚假玩家数：",
+    "premium_title": "高级选项",
+    "btn_export": "捕获 MOTD"
+  },
+  "banner": {
+    "label_style": "样式：",
+    "label_bg": "背景：",
+    "btn_upload_bg": "🌌 上传背景",
+    "label_logo": "服务器徽标：",
+    "btn_upload_logo": "📁 上传徽标",
+    "label_name": "名称：",
+    "label_feat": "功能：",
+    "label_overlay": "暗色覆盖层",
+    "gif_mode": "GIF 模式",
+    "gif_txt_anim": "文本动画：",
+    "gif_bg_anim": "背景动画：",
+    "gif_icon_anim": "图标动画：",
+    "btn_preview_gif": "👁️ 预览 GIF"
+  },
+  "widget": {
+    "prev_server": "服务器：",
+    "label_ip": "服务器 IP：",
+    "label_text": "显示文本：",
+    "opt_show_ip": "在下方显示 IP",
+    "opt_rounded": "圆角边缘",
+    "label_txtcol": "文本颜色：",
+    "bg_anim": "背景动画：",
+    "txt_anim": "文本动画：",
+    "opt_grad": "渐变",
+    "opt_neon": "霓虹灯边框",
+    "status_online": "在线",
+    "status_offline": "离线",
+    "visual_effects": "视觉效果",
+    "font": "字体：",
+    "live_data": "实时数据",
+    "auto_update": "自动更新",
+    "interval": "间隔（秒）：",
+    "neon_mode": "霓虹灯模式：",
+    "neon_colors": "霓虹灯颜色：",
+    "width": "宽度：",
+    "bg_colors": "背景和颜色",
+    "ip_size": "IP 大小：",
+    "rounded_size": "半径：",
+    "label_icon": "图标 URL：",
+    "icon_auto": "从 API 提取",
+    "total_width": "总宽度：",
+    "box_width": "框宽度（颜色）：",
+    "show_players": "显示玩家"
+  },
+  "output": {
+    "title": "&nbsp;结果 💾&nbsp;",
+    "label_format": "格式：",
+    "btn_copy": "复制代码",
+    "btn_download": "将横幅下载为 PNG",
+    "btn_gif": "下载 GIF",
+    "ph_area": "数据将显示在这里...",
+    "gen_comment": ""
+  },
+  "showcase": {
+    "t1": "正在寻找这样的像素画？ 💎",
+    "t2": "正在寻找这样的渲染图？ 💎",
+    "t3": "正在寻找这样的动画？ 💎"
+  },
+  "tools": {
+    "title": "更多工具："
+  },
+  "footer": {
+    "thanks": "感谢 <a href=\"https://alonsoaliaga.com/donate\" rel=\"noopener\" target=\"_blank\" style=\"color:var(--link-color);\">AlonsoAliaga</a> 和 <a href=\"https://google.com\" rel=\"noopener\" target=\"_blank\" style=\"color:var(--link-color);\">Gemini</a> 在开发此工具期间的辛勤工作。"
+  },
+  "toast": {
+    "copied": "代码已复制到剪贴板！",
+    "fetched": "数据加载成功！",
+    "resized": "图标已调整为 64x64！",
+    "resized_ready": "图标已调整为 64x64，准备下载！",
+    "fetch_err": "获取服务器数据时出错！",
+    "downloading": "正在生成图像...",
+    "imported": "设置已导入！",
+    "link_copied": "链接已复制！"
+  }
+}

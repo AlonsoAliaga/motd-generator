@@ -1,0 +1,122 @@
+{
+  "header": {
+    "title_html": "MOTD <span>Generator</span>",
+    "browser_warning": "Usa Google Chrome u Opera para una mejor experiencia. Edge puede dar problemas."
+  },
+  "desc": {
+    "title": "¿Por qué usar esta herramienta?",
+    "text_1": "Siendo honestos, no hay más sitios con todo lo que tiene este.<br>¡Crea increíbles MOTDs, Banners de Servidor y Widgets Web al instante para tu servidor con nuestra suite completa de <span class=\"rainbow\">Branding</span>!",
+    "tagline": "¡No busques más! ¡Nuestros generadores están aquí!",
+    "links": "⚠️ Si tienes ideas, sugiérelas en nuestro <a href=\"https://alonsoaliaga.com/discord\" style=\"text-decoration:underline;\">discord oficial</a>.<br>💎 Si te fue útil, considera <a href=\"https://alonsoaliaga.com/donate\" style=\"text-decoration:underline;\">hacer una donación</a> por el trabajo duro."
+  },
+  "options": {
+    "site_options": "Opciones del sitio:",
+    "dark_mode": "Modo Oscuro 👁️‍🗨️",
+    "button_auto": "🤖 AUTO"
+  },
+  "general": {
+    "res": "Resolución:",
+    "engine": "Motor:",
+    "bold": "Negrita",
+    "align": "Alineación:"
+  },
+  "controls": {
+    "title": "&nbsp;Configuración y Herramientas 🎛️&nbsp;",
+    "tab_motd": "Creador de MOTD",
+    "tab_banner": "Generador de Banners",
+    "tab_widget": "Widget Web",
+    "btn_export_data": "💾 Exportar",
+    "btn_import_data": "📂 Importar",
+    "btn_share": "🔗 Compartir"
+  },
+  "motd": {
+    "label_live": "Buscar IP:",
+    "ph_live_ip": "mc.hypixel.net",
+    "btn_fetch": "🔄 Cargar IP",
+    "label_icon": "Icono (64x64):",
+    "ph_icon_url": "URL o Base64",
+    "btn_upload": "📁 Subir Icono",
+    "btn_dl_icon": "📥 Descargar 64px",
+    "label_title": "Nombre Servidor:",
+    "label_line1": "Línea MOTD #1:",
+    "label_line2": "Línea MOTD #2:",
+    "label_players": "Jugadores Falsos:",
+    "premium_title": "Opciones Premium",
+    "btn_export": "Capturar MOTD"
+  },
+  "banner": {
+    "label_style": "Estilo:",
+    "label_bg": "Fondo:",
+    "btn_upload_bg": "🌌 Subir Fondo",
+    "label_logo": "Logo del Server:",
+    "btn_upload_logo": "📁 Subir Logo",
+    "label_name": "Nombre:",
+    "label_feat": "Características:",
+    "label_overlay": "Capa Oscura",
+    "gif_mode": "Modo GIF",
+    "gif_txt_anim": "Animación de Texto:",
+    "gif_bg_anim": "Animación de Fondo:",
+    "gif_icon_anim": "Animación de Icono:",
+    "btn_preview_gif": "👁️ Previsualizar GIF"
+  },
+  "widget": {
+    "prev_server": "Servidor:",
+    "label_ip": "IP del server:",
+    "label_text": "Mostrar texto:",
+    "opt_show_ip": "Mostrar IP debajo",
+    "opt_rounded": "Bordes Redondos",
+    "label_txtcol": "Color Texto:",
+    "bg_anim": "Animación de Fondo:",
+    "txt_anim": "Animación de Texto:",
+    "opt_grad": "Degradado",
+    "opt_neon": "Borde Neón",
+    "status_online": "En línea",
+    "status_offline": "Desconectado",
+    "visual_effects": "Efectos Visuales",
+    "font": "Fuente:",
+    "live_data": "Datos en Vivo",
+    "auto_update": "Auto-Actualizar",
+    "interval": "Intervalo (segs):",
+    "neon_mode": "Modo Neón:",
+    "neon_colors": "Colores Neón:",
+    "width": "Ancho:",
+    "bg_colors": "Fondo y Colores",
+    "ip_size": "Tamaño IP:",
+    "rounded_size": "Radio:",
+    "label_icon": "URL del Icono:",
+    "icon_auto": "Extraer de API",
+    "total_width": "Ancho Total:",
+    "box_width": "Ancho de Caja (Color):",
+    "show_players": "Mostrar Jugadores"
+  },
+  "output": {
+    "title": "&nbsp;Resultado 💾&nbsp;",
+    "label_format": "Formato:",
+    "btn_copy": "COPIAR CÓDIGO",
+    "btn_download": "Descargar banner como PNG",
+    "btn_gif": "DESCARGAR GIF",
+    "ph_area": "Los datos aparecerán aquí...",
+    "gen_comment": "<!-- Generado en https://alonsoaliaga.com/motd-generator -->"
+  },
+  "showcase": {
+    "t1": "¿Buscas un pixelart así? 💎",
+    "t2": "¿Buscas un render como este? 💎",
+    "t3": "¿Buscas una animación así? 💎"
+  },
+  "tools": {
+    "title": "Más herramientas:"
+  },
+  "footer": {
+    "thanks": "Gracias a <a href=\"https://alonsoaliaga.com/donate\" rel=\"noopener\" target=\"_blank\" style=\"color:var(--link-color);\">AlonsoAliaga</a> y <a href=\"https://google.com\" rel=\"noopener\" target=\"_blank\" style=\"color:var(--link-color);\">Gemini</a> por su arduo trabajo durante el desarrollo de esta herramienta."
+  },
+  "toast": {
+    "copied": "¡Código copiado al portapapeles!",
+    "fetched": "¡Datos cargados correctamente!",
+    "resized": "¡Icono redimensionado a 64x64!",
+    "resized_ready": "¡Icono redimensionado a 64x64 y listo para descargar!",
+    "fetch_err": "¡Error al cargar datos del servidor!",
+    "downloading": "Generando imagen...",
+    "imported": "¡Ajustes importados!",
+    "link_copied": "¡Enlace copiado!"
+  }
+}

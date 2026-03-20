@@ -1,0 +1,122 @@
+{
+  "header": {
+    "title_html": "<span>Gineadóir</span> MOTD",
+    "browser_warning": "Bain úsáid as Google Chrome nó Opera le haghaidh eispéireas níos fearr. D'fhéadfadh Edge fadhbanna a chruthú."
+  },
+  "desc": {
+    "title": "Cén fáth a n-úsáidfeá an uirlis seo?",
+    "text_1": "Bímis macánta, níl aon suíomhanna eile ann a bhfuil gach rud atá ag an gceann seo acu.<br>Cruthaigh MOTDanna iontacha, Meirgí Freastalaí, agus Giuirléidí Gréasáin láithreach do do fhreastalaí lenár sraith iomlán <span class=\"rainbow\">Brandála</span>!",
+    "tagline": "Ná cuardaigh a thuilleadh! Tá ár ngineadóirí anseo!",
+    "links": "⚠️ Má tá smaointe agat, mol iad inár <a href=\"https://alonsoaliaga.com/discord\" style=\"text-decoration:underline;\">discord oifigiúil</a>.<br>💎 Má bhí sé úsáideach duit, smaoinigh ar <a href=\"https://alonsoaliaga.com/donate\" style=\"text-decoration:underline;\">síntiús a thabhairt</a> as an obair chrua."
+  },
+  "options": {
+    "site_options": "Roghanna an tsuímh:",
+    "dark_mode": "Mód Dorcha 👁️‍🗨️",
+    "button_auto": "🤖 UATH"
+  },
+  "general": {
+    "res": "Taifeach:",
+    "engine": "Inneall:",
+    "bold": "Cló Trom",
+    "align": "Ailíniú:"
+  },
+  "controls": {
+    "title": "&nbsp;Cumraíocht & Uirlisí 🎛️&nbsp;",
+    "tab_motd": "Cruthaitheoir MOTD",
+    "tab_banner": "Gineadóir Meirgí",
+    "tab_widget": "Giuirléid Ghréasáin",
+    "btn_export_data": "💾 Easpórtáil",
+    "btn_import_data": "📂 Iompórtáil",
+    "btn_share": "🔗 Comhroinn"
+  },
+  "motd": {
+    "label_live": "Faigh IP:",
+    "ph_live_ip": "mc.hypixel.net",
+    "btn_fetch": "🔄 Lódáil IP",
+    "label_icon": "Deilbhín (64x64):",
+    "ph_icon_url": "URL nó Base64",
+    "btn_upload": "📁 Uaslódáil Deilbhín",
+    "btn_dl_icon": "📥 Íoslódáil 64px",
+    "label_title": "Ainm an Fhreastalaí:",
+    "label_line1": "Líne MOTD #1:",
+    "label_line2": "Líne MOTD #2:",
+    "label_players": "Imreoirí Bréige:",
+    "premium_title": "Roghanna Préimhe",
+    "btn_export": "Gabháil MOTD"
+  },
+  "banner": {
+    "label_style": "Stíl:",
+    "label_bg": "Cúlra:",
+    "btn_upload_bg": "🌌 Uaslódáil Cúlra",
+    "label_logo": "Lógó an Fhreastalaí:",
+    "btn_upload_logo": "📁 Uaslódáil Lógó",
+    "label_name": "Ainm:",
+    "label_feat": "Gnéithe:",
+    "label_overlay": "Forleagan Dorcha",
+    "gif_mode": "Mód GIF",
+    "gif_txt_anim": "Beochan Téacs:",
+    "gif_bg_anim": "Beochan Cúlra:",
+    "gif_icon_anim": "Beochan Deilbhín:",
+    "btn_preview_gif": "👁️ Réamhamharc ar GIF"
+  },
+  "widget": {
+    "prev_server": "Freastalaí:",
+    "label_ip": "IP an Fhreastalaí:",
+    "label_text": "Téacs le taispeáint:",
+    "opt_show_ip": "Taispeáin IP thíos",
+    "opt_rounded": "Imill Chruinne",
+    "label_txtcol": "Dath an Téacs:",
+    "bg_anim": "Beochan Cúlra:",
+    "txt_anim": "Beochan Téacs:",
+    "opt_grad": "Grádán",
+    "opt_neon": "Teorainn Neon",
+    "status_online": "Ar líne",
+    "status_offline": "As líne",
+    "visual_effects": "Éifeachtaí Físiúla",
+    "font": "Cló:",
+    "live_data": "Sonraí Beo",
+    "auto_update": "Nuashonrú Uathoibríoch",
+    "interval": "Achar (soic):",
+    "neon_mode": "Mód Neon:",
+    "neon_colors": "Dathanna Neon:",
+    "width": "Leithead:",
+    "bg_colors": "Cúlra & Dathanna",
+    "ip_size": "Méid IP:",
+    "rounded_size": "Ga:",
+    "label_icon": "URL an Deilbhín:",
+    "icon_auto": "Bain ón API",
+    "total_width": "Leithead Iomlán:",
+    "box_width": "Leithead Bosca (Dath):",
+    "show_players": "Taispeáin Imreoirí"
+  },
+  "output": {
+    "title": "&nbsp;Toradh 💾&nbsp;",
+    "label_format": "Formáid:",
+    "btn_copy": "CÓIPEÁIL AN CÓD",
+    "btn_download": "Íoslódáil meirge mar PNG",
+    "btn_gif": "ÍOSLÓDÁIL GIF",
+    "ph_area": "Beidh na sonraí anseo...",
+    "gen_comment": ""
+  },
+  "showcase": {
+    "t1": "Ag lorg ealaín picteilíní mar seo? 💎",
+    "t2": "Ag lorg rindreáil mar seo? 💎",
+    "t3": "Ag lorg beochan mar seo? 💎"
+  },
+  "tools": {
+    "title": "Tuilleadh uirlisí:"
+  },
+  "footer": {
+    "thanks": "Buíochas le <a href=\"https://alonsoaliaga.com/donate\" rel=\"noopener\" target=\"_blank\" style=\"color:var(--link-color);\">AlonsoAliaga</a> agus <a href=\"https://google.com\" rel=\"noopener\" target=\"_blank\" style=\"color:var(--link-color);\">Gemini</a> as a gcuid oibre crua le linn fhorbairt na huirlise seo."
+  },
+  "toast": {
+    "copied": "Cód cóipeáilte chuig an ghearrthaisce!",
+    "fetched": "Sonraí lódáilte go rathúil!",
+    "resized": "Deilbhín athraithe go 64x64!",
+    "resized_ready": "Deilbhín athraithe go 64x64 agus réidh don íoslódáil!",
+    "fetch_err": "Earráid agus sonraí an fhreastalaí á bhfáil!",
+    "downloading": "Íomhá á giniúint...",
+    "imported": "Socruithe iompórtáilte!",
+    "link_copied": "Nasc cóipeáilte!"
+  }
+}
